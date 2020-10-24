@@ -19,3 +19,7 @@ We will be looking at Parkingtickets_Dec2016.csv
 Toyota, Honda, Nissan, and Ford, in that order, have the highest amount of traffic violations. These are also some of the most common vehicle makes out there. So it is not entirely clear that this is due to the vehicle's make, or just the over abundance of these vehicles that skews the results.
 The data is statistically significant, so the null hypothesis is no longer in play. Indicating there are factors, that are not due to randomness, that are causing this trend. 
 Further Analysis will be needed to see what factor is exactly at work here.
+
+With the data given, We can see that Toyotas, Hondas, and Nissans are all around 3 times (give or take) more likely to get a traffic violation than the other makes.
+
+The "Other" Section, which is comprised of around 100 different makes, just barely doubles the expected amount of traffic violations. This is showing, that despite the sheer amount of different makes, the number of violations given to each is on average, 29 violations, way below the expected.
